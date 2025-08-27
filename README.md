@@ -2,11 +2,11 @@
 
 Nama: Ibnu Hilmi Athaillah
 NIM: 241511079
-Kelas: D3 Teknik Informatika 2A
+Kelas: D3 Teknik Informatika 2C
 Mata Kuliah: Pemrograman Berbasis Objek (Praktek)
 Dosen: Zulkifli Arsyad, Ardhian Ekawijana
 Deskripsi
-Repository ini berisi solusi untuk 5 soal praktikum pertama mata kuliah PBO yang mencakup fundamental programming structures dalam Java. Setiap soal dirancang untuk memahami konsep dasar seperti tipe data, variables, operators, dan strings.
+Repository ini berisi solusi untuk soal-soal praktikum pertama mata kuliah PBO yang mencakup fundamental programming structures dalam Java. Setiap soal dirancang untuk memahami konsep dasar seperti tipe data, variables, operators, dan strings.
 Environment Setup
 
 JDK Version: Java Development Kit 24
